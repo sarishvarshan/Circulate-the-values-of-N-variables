@@ -12,7 +12,7 @@ get a,n inputs from the user
 ### Step 3: 
 define the formula step
 ### Step 4: 
-print the result
+print the result.
 
 ## Program:
 ```
