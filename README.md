@@ -15,6 +15,9 @@ define the formula step
 print the result.
 
 ## Program:
+#Program to Circulate the n variables using function concept
+#Developed by: Sarish Varshan V
+#RegisterNumber : 212223230196
 ```
 def circulate():
     l=eval(input())
